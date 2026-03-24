@@ -1,2 +1,8 @@
 .DS_Store
 .ipynb_checkpoints/
+
+# Secrets — never commit real keys
+.env
+.env.local
+.env.production
+.env.*.local
